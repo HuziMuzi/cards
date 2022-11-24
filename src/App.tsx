@@ -12,7 +12,7 @@ import { authMeTC } from "./bll/authReducer";
 function App() {
     const dispatch = useAppDispatch();
     const [isLoading, setIsLoading] = useState(true);
-
+// test
     useLayoutEffect(() => {
         setIsLoading(true);
         dispatch(authMeTC()).then(() => setIsLoading(false));
