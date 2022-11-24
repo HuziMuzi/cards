@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cards/static/css/main.61f21c62.css",
+    "main.js": "/cards/static/js/main.3834949a.js",
+    "static/media/PageNotFoundImage.gif": "/cards/static/media/PageNotFoundImage.7a20d452463fe471672a.gif",
+    "static/media/default-photo.png": "/cards/static/media/default-photo.8c90e03562660ac43ac2.png",
+    "index.html": "/cards/index.html",
+    "main.61f21c62.css.map": "/cards/static/css/main.61f21c62.css.map",
+    "main.3834949a.js.map": "/cards/static/js/main.3834949a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f21c62.css",
+    "static/js/main.3834949a.js"
+  ]
+}
